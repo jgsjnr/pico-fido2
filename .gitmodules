@@ -8,5 +8,5 @@
 	branch = main
 [submodule "pico-keys-sdk"]
 	path = pico-keys-sdk
-	url = https://github.com/jgsjnr/pico-keys-sdk
+	url = https://github.com/jgsjnr/pico-keys-sdk.git
 	branch = main
